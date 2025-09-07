@@ -1,4 +1,4 @@
-  //PROGRAM TO STORE THE CONTENT IN THE ARRAY AND ACCES USING THE LOOP 
+  #PROGRAM TO STORE THE CONTENT IN THE ARRAY AND ACCES USING THE LOOP 
 ```
 #include <stdio.h>
 
@@ -17,3 +17,4 @@ for (i=0; i<4 ; i++)
     return 0;
 }
 ```
+### Space near the %d will make the code fault
